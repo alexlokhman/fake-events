@@ -134,51 +134,6 @@
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suam denique cuique naturam esse ad vivendum ducem. Bonum integritas corporis: misera debilitas. \n\n",
             "lat": 50.8918,
             "long": -1.7382
-        },
-        {
-            "title": "Event 16",
-            "type": "Sports",
-            "date_start": "2018-02-10 21:04:01",
-            "date_finish": "2018-07-04 15:23:23",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Faceres tu quidem, Torquate, haec omnia; Qui ita affectus, beatum esse numquam probabis; Si quae forte-possumus. Sed mehercule pergrata mihi oratio tua. \n\n",
-            "lat": 52.7338,
-            "long": -0.4952
-        },
-        {
-            "title": "Event 17",
-            "type": "Sports",
-            "date_start": "2018-06-03 23:30:45",
-            "date_finish": "2018-12-17 10:55:36",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non semper, inquam; Nihil opus est exemplis hoc facere longius. Duo Reges: constructio interrete. Memini vero, inquam; Si longus, levis. Moriatur, inquit. \n\n",
-            "lat": 52.5962,
-            "long": -1.5246
-        },
-        {
-            "title": "Event 18",
-            "type": "Music",
-            "date_start": "2018-01-23 20:42:39",
-            "date_finish": "2018-10-20 06:48:47",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quod vestri non item. Eam tum adesse, cum dolor omnis absit; \n\n",
-            "lat": 51.3187,
-            "long": -1.4772
-        },
-        {
-            "title": "Event 19",
-            "type": "Sports",
-            "date_start": "2018-06-22 17:36:07",
-            "date_finish": "2018-08-16 14:20:37",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Simus igitur contenti his. Quis Aristidem non mortuum diligit? Non semper, inquam; Istam voluptatem, inquit, Epicurus ignorat? Occultum facinus esse potuerit, gaudebit; Duo Reges: constructio interrete. Quid adiuvas? \n\n",
-            "lat": 50.9867,
-            "long": 0.2169
-        },
-        {
-            "title": "Event 20",
-            "type": "Music",
-            "date_start": "2018-06-29 03:08:46",
-            "date_finish": "2018-07-12 20:36:43",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Bestiarum vero nullum iudicium puto. Immo videri fortasse. Estne, quaeso, inquam, sitienti in bibendo voluptas? Restinguet citius, si ardentem acceperit. Summum en\u00edm bonum exposuit vacuitatem doloris; \n\n",
-            "lat": 51.0733,
-            "long": -0.6352
         }
     ]
 }
